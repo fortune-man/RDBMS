@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T17:32:08.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="rWOZHcPCqIZOc6LrZdFN" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-31T00:06:10.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="K1weFFG2Whe3vkQcCSRs" version="16.5.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1589" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="691" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,6 +174,24 @@
             <Array as="points">
               <mxPoint x="550" y="160" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_nw2ct1KJHe7wqcntup4-72" value="휴면자" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="77.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_nw2ct1KJHe7wqcntup4-73" value="" style="endArrow=ERone;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;startArrow=ERzeroToOne;startFill=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_nw2ct1KJHe7wqcntup4-72" target="_nw2ct1KJHe7wqcntup4-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="260" as="sourcePoint" />
+            <mxPoint x="310" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_nw2ct1KJHe7wqcntup4-74" value="휴면일" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-80" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="_nw2ct1KJHe7wqcntup4-75" value="" style="endArrow=ERone;html=1;elbow=vertical;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="_nw2ct1KJHe7wqcntup4-72" target="_nw2ct1KJHe7wqcntup4-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="140" as="sourcePoint" />
+            <mxPoint x="140" y="127.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
